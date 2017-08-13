@@ -846,6 +846,136 @@
           41.60949040650354
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quonset Bike Path"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4537262916565,
+          41.60729238952066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quonset O Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4227843284607,
+          41.60251104288167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quonset State Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41141176223755,
+          41.60119530815516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narragansett Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31822109222412,
+          41.62648641025769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sisson Pond Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2831163406372,
+          41.555095578269956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algonquin Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30062580108641,
+          41.54427214196035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocahontas Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30290031433104,
+          41.541798876975584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Squantum Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29783630371094,
+          41.54054614823037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namquid Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29749298095703,
+          41.539775226171265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanumetonomy Golf andCountry Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30513191223145,
+          41.53794424944887
+        ]
+      }
     }
   ]
 }
