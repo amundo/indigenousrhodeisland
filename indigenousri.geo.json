@@ -273,6 +273,136 @@
           41.94359563686954
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quinsnicket Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43808364868163,
+          41.90489616951426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pequot Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3971209526062,
+          41.93567884413778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waumsett Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39875173568726,
+          41.93689196485048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massachusetts Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39817237854004,
+          41.94102597922543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narragansett Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39937400817871,
+          41.935040350283565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iroquois Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39810800552368,
+          41.93330042208913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohawk Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.40190601348876,
+          41.93104961887489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seneca Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39952421188354,
+          41.93087402095808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chepachet River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.66800260543823,
+          41.91457323692675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pawtucket Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.65289640426636,
+          41.907299604531666
+        ]
+      }
     }
   ]
 }
