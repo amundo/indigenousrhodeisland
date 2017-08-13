@@ -403,6 +403,123 @@
           41.907299604531666
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocasset River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.47288799285889,
+          41.794064390767204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mashapaug Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43441438674927,
+          41.7946403039809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navaho Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44042253494263,
+          41.79515222249322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pawnee Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44014358520508,
+          41.79385642083494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niantic Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43743991851807,
+          41.791488715573735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Togansett Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4370322227478,
+          41.791008764657164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhasset Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.43937110900877,
+          41.79120074545503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algonquin Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.42956495285034,
+          41.792848556989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niagara Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4155101776123,
+          41.79366444799088
+        ]
+      }
     }
   ]
 }
