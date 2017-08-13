@@ -833,6 +833,19 @@
           41.62487442851648
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namcook Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.45726680755615,
+          41.60949040650354
+        ]
+      }
     }
   ]
 }
