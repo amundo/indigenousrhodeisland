@@ -520,6 +520,71 @@
           41.79366444799088
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sassafras Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41379356384277,
+          41.79393640935027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sackett Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41810655593872,
+          41.79428835763188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumach Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36087894439697,
+          41.795952086983306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seekonk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.34075164794922,
+          41.80817277478235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wompanoag Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3316535949707,
+          41.77924884467945
+        ]
+      }
     }
   ]
 }
