@@ -585,6 +585,97 @@
           41.77924884467945
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narragansett Park Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.34860515594482,
+          41.86169877205213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naushon Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.34145975112915,
+          41.86912939783236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pawtucket Country Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3386058807373,
+          41.87777340460667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanager Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32530212402344,
+          41.870839118528714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caratuck Wildlife Refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31495952606201,
+          41.87429037798784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anawan Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.23329162597656,
+          41.87128651452661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taunton River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09797954559326,
+          41.8726925958485
+        ]
+      }
     }
   ]
 }
