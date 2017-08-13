@@ -676,6 +676,175 @@
           41.8726925958485
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagamore Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02262020111084,
+          41.869401038755456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyashk Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02639675140381,
+          41.86256172775428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powhattan Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02334976196289,
+          41.85962123833509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meeshawn Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02596759796143,
+          41.85859842771094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wampum Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02429389953613,
+          41.85725596394074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotuit Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01515293121338,
+          41.857287927691345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massasoit State Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.99159240722656,
+          41.87278846390321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sachem Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.88052749633789,
+          41.88227868955987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapasquin Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86958408355713,
+          41.865821677523876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Yomechas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86005687713623,
+          41.85990890087561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tispaquin Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.85203170776367,
+          41.86150700253673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Yamecas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.86007833480835,
+          41.85856646461535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamesit Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.68933963775635,
+          41.858214869509354
+        ]
+      }
     }
   ]
 }
