@@ -690,6 +690,32 @@
           41.512530081293086
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nipmuck Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.65987014770508,
+          41.73132288344174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nipmuck Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.66375398635864,
+          41.73258792258052
+        ]
+      }
     }
   ]
 }
