@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallum Lake Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76024913787842,
+          41.99917702044899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallum Beach Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.75827503204346,
+          42.00450288321286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Wallum Lake Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74295425415039,
+          41.999464054357865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saranac Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5365743637085,
+          42.010019624240606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miscoe Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41709804534912,
+          42.01320827369698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Womantum Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41714096069336,
+          41.988396365200295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sneech Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.45344734191895,
+          41.98275014565141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sneech Pond Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41958713531494,
+          41.981825011091054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woonsocket Industrial Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.48610591888428,
+          41.97432773524483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logee Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.50288581848145,
+          41.99461619685045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merrimac Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5193223953247,
+          41.981378389595875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woonsocket Hill Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.53726100921631,
+          41.98488747409625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohegan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62373542785645,
+          41.98581256415963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pascoag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.70334339141846,
+          41.95562855598633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mattity Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.59180641174316,
+          41.95639450046089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woonsocket Hill Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55142307281494,
+          41.96319185428908
+        ]
+      }
+    }
+  ]
+}
