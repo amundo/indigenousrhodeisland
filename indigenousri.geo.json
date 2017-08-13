@@ -221,6 +221,58 @@
           41.96694125793833
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scituate Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.60270690917969,
+          41.812267143599804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scituate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62193298339844,
+          41.78334506161072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woonasquatucket River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.55266761779785,
+          41.91601030004227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woonsocket Reservoir Number 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.50142669677734,
+          41.94359563686954
+        ]
+      }
     }
   ]
 }
