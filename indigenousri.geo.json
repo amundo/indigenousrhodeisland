@@ -716,6 +716,123 @@
           41.73258792258052
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponagansett Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67192935943604,
+          41.79259258904432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chopmist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67162895202637,
+          41.82525223819993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponaganset Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67776584625244,
+          41.86757942459979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keech Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68848395347594,
+          41.879570763813994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponaganset Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74449920654297,
+          41.877485822442324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adirondack Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.50142669677734,
+          41.63042396732945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pequot Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.49044036865234,
+          41.616116092133794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quidnessett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.45490646362305,
+          41.62728035660022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quidnessett Cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.46370410919188,
+          41.62487442851648
+        ]
+      }
     }
   ]
 }
