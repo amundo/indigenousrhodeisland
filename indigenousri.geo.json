@@ -208,6 +208,19 @@
           41.96319185428908
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Algonquin Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.75548553466797,
+          41.96694125793833
+        ]
+      }
     }
   ]
 }
