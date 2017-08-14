@@ -1067,6 +1067,19 @@
           41.48003296545927
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canonicus Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3670265674591,
+          41.497408575516225
+        ]
+      }
     }
   ]
 }
