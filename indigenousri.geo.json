@@ -976,6 +976,97 @@
           41.53794424944887
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niagara Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30268573760986,
+          41.52053131950422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massachusetts Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30403757095337,
+          41.51393599296836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagamore Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3051426410675,
+          41.50649636506829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pennacook Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30675196647644,
+          41.50639994959205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Philip Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30381226539612,
+          41.5056527247832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miantonomi Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.29807233810425,
+          41.505572377516074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slocum Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3051962852478,
+          41.48003296545927
+        ]
+      }
     }
   ]
 }
