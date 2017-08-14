@@ -1080,6 +1080,71 @@
           41.497408575516225
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquidneck Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28285884857176,
+          41.51400829617179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakonnet Greenway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24878406524658,
+          41.52917411594005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquidneck Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27247333526611,
+          41.55249426494211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wamsutta Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.24556541442871,
+          41.57253130879615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weetamoe Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.245436668396,
+          41.57150391922791
+        ]
+      }
     }
   ]
 }
