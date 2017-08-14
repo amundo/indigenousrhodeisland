@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Coffee Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39909237623215,
+          41.8192857382849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "White Electric"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.42004042863846,
+          41.81851015240807
+        ]
+      }
+    }
+  ]
+}
